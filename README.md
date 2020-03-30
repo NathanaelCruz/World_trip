@@ -2,9 +2,9 @@
 <section data-markdown>
   
   ![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_01.png)
-  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_06.png" width="170" height="300"/>
-  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_03.png" width="170" height="300"/>
-  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_04.png" width="170" height="300"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_06.png" width="250" height="320"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_03.png" width="250" height="320"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_04.png" width="250" height="320"/>
   
 </section>
 
