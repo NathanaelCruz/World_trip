@@ -5,7 +5,6 @@
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_06.png" width="170" height="300"/>
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_03.png" width="170" height="300"/>
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_04.png" width="170" height="300"/>
-  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_05.png" width="290" height="300" />
   
 </section>
 
@@ -18,6 +17,13 @@ Este é um projeto pessoal para portfólio, com intuito de expressar o conhecime
 
 ### Requerimentos para Utilizar
 > Para utilização do projeto basta baixar e utilizar no navegador o arquivo index em html.
+
+
+<section data-markdown>
+  
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/screen_WT_05.png" width="570" height="300" />
+  
+</section>
 
 ### Funcionalidades
 O sistema é desenvolvido em HTML 5, CSS 3 e Jquery, com estrutura SPA e hierarquia de pastas baseado em assets, para documentos estáticos. O sistema é responsivo nas resoluções 600, 788, 1024 e acima, com mudança dinâmica de menu e organização de elementos intra layout, juntamente com a funcionalidade de scrollTop.
