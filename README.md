@@ -8,6 +8,10 @@
   
 </section>
 
+![GitHub All Releases](https://img.shields.io/github/downloads/NathanaelCruz/World_trip/total)
+![GitHub top language](https://img.shields.io/github/languages/top/NathanaelCruz/World_trip)
+![GitHub last commit](https://img.shields.io/github/last-commit/NathanaelCruz/World_trip)
+
 ### Sobre o Projeto
 > A idéia é praticar e demonstrar a evolução no âmbito do desenvolvimento front-end, sendo uma área nova que estou adentrando profissionalmente, através de um SPA simples e limpo para utilização e navegabilidade, abordando não só conceitos de responsividade, mas semântica e estruturação HTML, padrões de CSS e boas práticas no desenvolvimento.
 
